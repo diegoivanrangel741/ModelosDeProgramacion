@@ -1,0 +1,7 @@
+package practica5;
+
+public enum Membresia {
+    PLATA,
+    ORO,
+    DIAMANTE,
+}
